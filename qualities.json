@@ -1,0 +1,7 @@
+[
+  { "name": "Common", "multiplier": 1, "chance": 0.5 },
+  { "name": "Rare", "multiplier": 1.5, "chance": 0.3 },
+  { "name": "Special", "multiplier": 2, "chance": 0.1 },
+  { "name": "Mystic", "multiplier": 3, "chance": 0.07 },
+  { "name": "Legendary", "multiplier": 5, "chance": 0.03 }
+]
