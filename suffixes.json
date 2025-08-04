@@ -1,0 +1,5 @@
+[
+  { "name": "of Might", "bonus": 50, "chance": 0.1 },
+  { "name": "of Swiftness", "bonus": 40, "chance": 0.08 },
+  { "name": "of Fortune", "bonus": 70, "chance": 0.05 }
+]
